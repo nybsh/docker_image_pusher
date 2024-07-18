@@ -2,3 +2,4 @@ nginx
 redis
 postgres
 semitechnologies/weaviate
+dpage/pgadmin4
