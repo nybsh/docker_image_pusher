@@ -4,3 +4,4 @@ postgres
 semitechnologies/weaviate
 dpage/pgadmin4
 dpage/pgadmin4:8.6
+certbot/certbot
