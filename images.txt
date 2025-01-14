@@ -7,4 +7,4 @@ dpage/pgadmin4:8.6
 certbot/certbot
 louislam/uptime-kuma:1
 mysql
- 
+nacos/nacos-server
