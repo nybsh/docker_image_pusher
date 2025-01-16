@@ -8,3 +8,4 @@ certbot/certbot
 louislam/uptime-kuma:1
 mysql
 nacos/nacos-server
+nacos/nacos-server:v2.3.2
