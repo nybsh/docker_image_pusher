@@ -10,3 +10,4 @@ mysql
 nacos/nacos-server
 nacos/nacos-server:v2.3.2
 minio/minio
+n8nio/n8n
