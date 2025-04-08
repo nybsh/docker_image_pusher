@@ -14,3 +14,4 @@ n8nio/n8n
 openjdk:8-jdk
 openjdk:11-jre-slim
 rabbitmq
+rabbitmq:management
