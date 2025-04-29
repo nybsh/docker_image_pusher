@@ -16,3 +16,4 @@ openjdk:11-jre-slim
 rabbitmq
 rabbitmq:management
 nacos/nacos-server:v2.2.2
+seataio/seata-server
